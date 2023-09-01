@@ -1,2 +1,2 @@
-print("hey")
+sssprint("hey")
 prinnsssst
